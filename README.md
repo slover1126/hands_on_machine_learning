@@ -1,4 +1,4 @@
-## Hi there 👋
+## 핸즈온 머신러닝 공부한거 올려두는 곳👋
 
 <!--
 **slover1126/slover1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
