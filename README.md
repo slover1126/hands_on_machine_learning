@@ -1,5 +1,5 @@
 ## 핸즈온 머신러닝 공부한거 올려두는 곳👋
-
+핸즈온 머신러닝 책을 공부하며 1장부터 9장까지의 내용을 정리했습니다.
 <!--
 **slover1126/slover1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 1장부터 9장까지의 내용들이 있습니다
